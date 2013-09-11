@@ -1,0 +1,29 @@
+body{
+	background-image: url('../img/people.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 50px 20px 20px 0px;
+}
+.row-fluid{
+	margin-bottom: 50px;
+}
+.my_box{
+	background-color: white;
+	background: rgba(255, 255, 255, 0.7);
+	border-radius: 6px;
+	padding: 20px;
+}
+.errors{
+	background: LightCoral;
+	border: 1px solid DarkRed;
+	padding: 10px;
+	margin: 10px;
+	width: 300px;
+}
+#success{
+	background: LightGreen;
+	border: 1px solid DarkGreen;
+	padding: 10px;
+	margin: 10px;
+	width: 300px;
+}
